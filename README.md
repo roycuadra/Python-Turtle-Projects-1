@@ -1,6 +1,8 @@
 # Python Turtles
 
-![image](https://files.realpython.com/media/Turtle_Initial_Demo_GIF.923f9cc7d490.gif)
+<div align="center">
+  <img src="https://files.realpython.com/media/Turtle_Initial_Demo_GIF.923f9cc7d490.gif" alt="Python Turtles" />
+</div>
 
 
 ## Overview
