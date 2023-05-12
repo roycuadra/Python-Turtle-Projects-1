@@ -1,6 +1,6 @@
 # Python Turtles
 
-[image](https://files.realpython.com/media/Turtle_Initial_Demo_GIF.923f9cc7d490.gif)
+![image](https://files.realpython.com/media/Turtle_Initial_Demo_GIF.923f9cc7d490.gif)
 
 
 ## Overview
